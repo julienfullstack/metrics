@@ -67,6 +67,11 @@ h1 {
   margin: 0 auto;
 }
 
+/* .center-table {
+  margin-left: auto;
+  margin-right: auto;
+} */
+
 .app-table,
 td {
   padding-right: 20px;
