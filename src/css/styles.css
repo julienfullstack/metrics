@@ -62,7 +62,7 @@ h1 {
   background-color: black;
 }
 
-.table{
+.table {
   position: relative;
   margin: 0 auto;
 }
@@ -71,6 +71,15 @@ h1 {
   margin-left: auto;
   margin-right: auto;
 } */
+
+.cenTable {
+  display: flex;
+  position: relative;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
 
 .app-table,
 td {
